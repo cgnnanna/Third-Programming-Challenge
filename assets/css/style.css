@@ -1,0 +1,19 @@
+body{
+    padding: 100px;
+}
+.flex-row{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    border-radius: 0 !important;
+}
+.rounded{
+    margin-left: -5px !important;
+    margin-top: -5px !important;
+    padding: 2px !important;
+    width: 15px !important;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 90px !important;
+}
